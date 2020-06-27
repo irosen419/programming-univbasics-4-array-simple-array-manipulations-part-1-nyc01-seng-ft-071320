@@ -1,3 +1,3 @@
-def pop_with_args(array)
-  array.pop(2)
+def pop_with_args(array, num)
+  array.pop(num)
 end
